@@ -15,11 +15,13 @@ A simple HTML/CSS-based guide to common PC issues and how to resolve them. Creat
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage Screenshot](images/screenshot-home.png)
+## 📸 Screenshots
 
-### Overheating Issue Page
-![Overheating Screenshot](images/screenshot-overheat.png)
+### Homepage
+![Home Screenshot](screenshot-home.png)
+
+### Overheating Troubleshooting Page
+![Overheat Screenshot](screenshot-overheat.png)
 
 ---
 
