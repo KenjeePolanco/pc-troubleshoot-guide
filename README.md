@@ -33,29 +33,31 @@ A simple HTML/CSS-based guide to common PC issues and how to resolve them. Creat
 ## 📂 File Structure
 
 pc-troubleshoot-guide/
-├── index.html 
-├── bsod.html 
-├── external-drive-not-detected.html 
-├──file-permission-error.html
-├──frozen-app.html
-├──battery-not-charging.html
-├──keyboard-not-working.html
-├──mouse-not-working.html
-├──no-boot.html
-├──no-internet.html
-├──no-sound.html
-├──overactive-fan.html
-├──overheating.html
-├──printer-issues.html
-├──screen-flickering.html
-├──slow.html
-├──software-wont-install.html
-├──windows-pudate-fail.html
-├── styles.css # Styling
-├── images/ # Screenshots folder
-│ ├── screenshot-home.png
-│ └── screenshot-overheat.png
-└── LICENSE
+│
+├── index.html # Main index page linking to all troubleshooting guides
+├── style.css # Shared CSS styling for all pages
+│
+├── battery-not-charging.html # Guide: Battery Not Charging
+├── bsod.html # Guide: Blue Screen of Death (BSOD)
+├── external-drive-not-detected.html # Guide: External Drive Not Detected
+├── file-permission-error.html # Guide: File Permission Error
+├── frozen-app.html # Guide: Frozen Application
+├── keyboard-not-working.html # Guide: Keyboard Not Working
+├── mouse-not-working.html # Guide: Mouse Not Working
+├── no-boot.html # Guide: PC Won’t Boot / No Display
+├── no-internet.html # Guide: No Internet Connection
+├── no-sound.html # Guide: No Sound
+├── overactive-fan.html # Guide: Overactive Fan
+├── overheating.html # Guide: Overheating Issues
+├── printer-issues.html # Guide: Printer Issues
+├── screen-flickering.html # Guide: Screen Flickering
+├── slow.html # Guide: PC Running Slow
+├── software-wont-install.html # Guide: Software Won’t Install
+├── windows-update-fail.html # Guide: Windows Update Fails
+│
+└── images/ # Screenshots used in documentation
+├── screenshot-home.png
+└── screenshot-overheat.png
 
 ---
 
