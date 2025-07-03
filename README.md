@@ -15,8 +15,6 @@ A simple HTML/CSS-based guide to common PC issues and how to resolve them. Creat
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Homepage
 ![Home Screenshot](screenshot-home.png)
 
