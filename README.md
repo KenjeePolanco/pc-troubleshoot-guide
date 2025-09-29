@@ -36,7 +36,7 @@ A simple HTML/CSS-based guide to common PC issues and how to resolve them. Creat
 pc-troubleshoot-guide/
 ├── index.html                      # Main index page with links to all troubleshooting guides
 ├── style.css                       # Shared stylesheet
-├── battery-not-charging.html
+├── battery-not-charging.html       # All HTML Pages
 ├── bsod.html
 ├── external-drive-not-detected.html
 ├── file-permission-error.html
@@ -53,7 +53,7 @@ pc-troubleshoot-guide/
 ├── slow.html
 ├── software-wont-install.html
 ├── windows-update-fail.html
-│__ images/
+│__ images/                         # Images Folder
       ├── screenshot-home.png
       └── screenshot-overheat.png
 ```
