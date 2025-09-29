@@ -75,6 +75,7 @@ This project was built to:
 - Help users resolve basic PC problems
 - Serve as a personal reference tool
 - Support CompTIA A+ exam preparation
+- Further my studies and practice using HTML and CSS
 
 ---
 
